@@ -84,7 +84,7 @@ Let the project sync
             Log.d("LaunchList", "Success ${response.data}")
         }
 
-**=======================TroubleShoots I have faced during amaking this project================================**
+**==============TroubleShoots I have faced during amaking this project=============**
 
 =>For isue regarding lifecycle 
   If you afce any issue during API calling regarding lifecycleScope or lifecycle make sure you have lifecycle dependancy in your project 
