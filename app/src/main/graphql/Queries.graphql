@@ -1,0 +1,26 @@
+query getLoc {
+    locations {
+        info {
+            pages
+        }
+        results {
+            name
+            id
+            type
+            dimension
+            created
+        }
+    }
+}
+
+query getLocNamesdimentions {
+    locations {
+        results {
+            name
+
+
+            dimension
+
+        }
+    }
+}
